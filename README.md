@@ -28,7 +28,7 @@ By answering these questions, we aim to help Olist managers and stakeholders und
 
 <img align="center" alt="coding" width="2000" src="https://labsnews.com/en/wp-content/uploads/sites/6/2019/10/Olist-1280x720.jpg">
 
-By: Judith Okon
+
 
 
 
